@@ -8,7 +8,7 @@ import (
 	"unicode"
 )
 
-var lower = false
+var lower = true
 
 func handleLine(line string) {
 	l := ""
